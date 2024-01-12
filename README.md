@@ -1,0 +1,1 @@
+The code of the proposed CMTSC method will be publicly available here. This is a code demo for the paper: CROSS MODAL FEW SHOT LEARNING FOR TREE SPECIES CLASSIFICATION USING AIRBORNE HYPERSPECTRAL IMAGES.
